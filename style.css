@@ -154,32 +154,32 @@ button {
 #left1 {
     margin-bottom: 10px;
     width: 328px;
-    height: 100px;
-    background-color: red;
+    height: auto;
+    background-color: white;
     float: left;
 }
 
 #left2 {
     margin-bottom: 10px;
     width: 328px;
-    height: 100px;
-    background-color: red;
+    height: auto;
+    background-color: white;
     float: left;
 }
 
 #left3 {
     margin-bottom: 10px;
     width: 328px;
-    height: 100px;
-    background-color: red;
+    height: auto;
+    background-color: white;
     float: left;
 }
 
 #left4 {
     margin-bottom: 10px;
     width: 328px;
-    height: 100px;
-    background-color: red;
+    height: auto;
+    background-color: white;
     float: left;
 }
 
@@ -214,4 +214,16 @@ button {
     height: 100px;
     background-color: #4b5b9e;
     float: right;
+}
+
+#designbox2 ul {
+    list-style-type: none;
+}
+
+#left4 div {
+    background-color: #4b5b9e;
+    padding: 16%;
+    margin: 2px;
+    float: left;
+
 }
