@@ -218,6 +218,7 @@ button {
 
 #designbox2 ul {
     list-style-type: none;
+
 }
 
 #left4 div {
@@ -225,5 +226,20 @@ button {
     padding: 16%;
     margin: 2px;
     float: left;
+}
 
+#left1 div {
+    /* padding-top: 324px;
+    padding-bottom: 324px;
+    padding-left: 10px;
+    padding-right: 10px; */
+    margin: 2px;
+    /* background-color: red; */
+    position: relative;
+    right: 35px;
+    border-top: 2px solid lightgray;
+}
+
+#left1 div:first-child {
+    border-top: none;
 }
